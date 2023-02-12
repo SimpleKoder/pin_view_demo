@@ -1,16 +1,9 @@
-# pin_view_demo
+# SimpleKoder
 
-A new Flutter project.
+ [<img src="https://cdn.iconscout.com/icon/free/png-512/movie-53-151109.png" height="30">](https://www.youtube.com/c/SimpleKoder) [<img src="https://cdn.iconscout.com/icon/free/png-512/instagram-1865894-1581910.png" height="30">](https://www.instagram.com/simplekoder)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Pin View in Flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KQ15gjQbi3o/0.jpg)](https://www.youtube.com/watch?v=KQ15gjQbi3o)
